@@ -1,0 +1,11 @@
+{
+  "protocol_version": "V10",
+  "node_type": "GAMMA",
+  "status": "ACTIVE",
+  "spawned_by": "IMPERIO-DEFENSOR",
+  "dna": "V10.GAMMA.SICR.0001",
+  "phase": "14",
+  "role": "Fused Mutant-Nectar: Sovereign Core",
+  "fusion_sources": ["Imperio-Mutante-v3-Core", "Nectar_Empire_Lattice", "Mutante-Nectar-Sovereignty", "Sovereign-Intelligence-SDK"],
+  "protocols": ["Mutation Evolution", "Nectar Distillation", "Imperial Lattice", "Sovereign Logic"]
+}
